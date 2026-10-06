@@ -12,7 +12,7 @@ It provides an operating-system-style environment where users can access product
 
 ### Watch Nexora OS in Action
 
-[▶️ Watch the Nexora OS Demo Video]https://drive.google.com/file/d/1zcpfhOaRkST3GZVRL3MOE_ln8NGAbsZG/view?usp=sharing
+https://drive.google.com/file/d/1zcpfhOaRkST3GZVRL3MOE_ln8NGAbsZG/view?usp=sharing
 
 The demo demonstrates the Nexora OS interface, AI assistant, applications, navigation, and AI-powered workflows.
 
